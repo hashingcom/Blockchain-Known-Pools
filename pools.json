@@ -8,6 +8,10 @@
             "name" : "SVPool",
             "link" : "https://svpool.com/"
         },
+        "/bmgpool.com/" : {
+            "name" : "BMGPool",
+            "link" : "https://bmgpool.com/"
+        },
         "Hello Mempool.com" : {
             "name" : "MemPool",
             "link" : "https://mempool.com/"
